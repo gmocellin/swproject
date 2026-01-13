@@ -13,7 +13,7 @@
     "react-dom": "^16.9.0",
     "react-jss": "^8.6.1",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "watch-css": "less-watch-compiler src src",
@@ -39,7 +39,7 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^6.3.0",
+    "eslint": "^9.39.1",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-plugin-babel": "^5.3.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
